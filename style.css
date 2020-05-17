@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.main-visual {
+	width: 100%;
+	height: 400px;
+	background-image: url(img/mv.jpg);
+	background-position: bottom;
+	background-size: cover;
+
+}
+.headline {
+	padding: 20px;
+	color: dimgray;
+}
+
+main {
+	width: 840px;
+	margin: 50px auto;
+}
+.service1 {
+	border-bottom: 1px solid #d1d1d1;
+	padding-bottom: 30px;
+	color: darkgray;
+}
+.service2 {
+	border-bottom: 1px solid #d1d1d1;
+	padding-bottom: 30px;
+	color: darkgray;
+}
+.service3 {
+	border-bottom: 1px solid #d1d1d1;
+	padding-bottom: 30px;
+	color: darkgray;
+}
+.service4 {
+	border-bottom: 1px solid #d1d1d1;
+	padding-bottom: 30px;
+	color: darkgray;
+}
